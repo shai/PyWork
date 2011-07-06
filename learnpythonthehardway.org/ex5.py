@@ -1,3 +1,5 @@
+# http://learnpythonthehardway.org/book/ex5.html
+
 name = 'Zed A. Shaw'
 age = 35 # not a lie
 height = 74 # inches
