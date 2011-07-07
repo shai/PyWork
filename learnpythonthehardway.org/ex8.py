@@ -12,3 +12,6 @@ print formatter % (
 	"But it didn't sing.",
 	"So I said goodnight."
 )
+
+# Extra credit #2: The 3rd string has a single qoute in it, so it
+# will print that whole text, with the double quotes.
