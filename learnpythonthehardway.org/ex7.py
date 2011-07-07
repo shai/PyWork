@@ -1,15 +1,15 @@
 # http://learnpythonthehardway.org/book/ex7.html
 
-# Print this text
+# Print this text # Extra credit #1
 print "Mary had a little lamb."
-# Print this text after replacing %s with 'snow'
+# Print this text after replacing %s with 'snow' # Extra credit #1
 print "Its fleece was white as %s." % 'snow'
-# Print this text
+# Print this text # Extra credit #1
 print "And everywhere that Mary went."
-# Now print 10 dots
+# Now print 10 dots # Extra credit #1
 print "." * 10 # what'd that do?
 
-# Set the following strings into their variables on the left
+# Set the following strings into their variables on the left # Extra credit #1
 end1 = "C"
 end2 = "h"
 end3 = "e"
