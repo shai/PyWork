@@ -1,11 +1,15 @@
 # http://learnpythonthehardway.org/book/ex7.html
 
+# Print this text
 print "Mary had a little lamb."
+# Print this text after replacing %s with 'snow'
 print "Its fleece was white as %s." % 'snow'
+# Print this text
 print "And everywhere that Mary went."
 # Now print 10 dots
 print "." * 10 # what'd that do?
 
+# Set the following strings into their variables on the left
 end1 = "C"
 end2 = "h"
 end3 = "e"
